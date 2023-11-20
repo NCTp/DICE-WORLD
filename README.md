@@ -26,23 +26,23 @@
 # 특징
 
 * 주사위를 굴려 던전을 탐색
-
- <p align = "center">
- <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/baf189b2-f630-4922-a596-9dcbab9e5683">
- </p>
  
  <p align = "center">
  <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/0fdae1c2-4416-41d7-bed8-f2eb6671b060">
  </p>
 
+ <p align = "center">
+ <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/baf189b2-f630-4922-a596-9dcbab9e5683">
+ </p>
+
+
 * 총의 부품들을 모아 마음대로 커스터마이징
 
   <움짤>
+ <p align = "center">
+ <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/e8aa0f03-7845-4be4-b6e0-a893c6d16997">
+ </p>
 
-
-* 주사위 눈에 비례하는 강함
-
-  <움짤>
 
 
 * 즐거운 슈팅액션
