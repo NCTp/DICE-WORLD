@@ -22,7 +22,9 @@
 
 * 주사위를 굴려 던전을 탐색
 
-  <움짤>
+<p align = "center">
+<img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/0fdae1c2-4416-41d7-bed8-f2eb6671b060">
+</p>
 
 * 총의 부품들을 모아 마음대로 커스터마이징
 
