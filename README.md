@@ -43,6 +43,10 @@
 <p align = "center">
 <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/6ad13ae0-6519-4ab6-a61c-2a4f07f79b87">
 </p>
+<p align = "center">
+<img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/c914a724-13b8-44b5-b0cf-bb54cbd8ec2c">
+</p>
+
 [조작법]
 
 * 이동 : WASD
