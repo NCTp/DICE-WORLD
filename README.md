@@ -45,7 +45,7 @@
 
 
 * 즐거운 슈팅액션
-* 
+  
  <p align = "center">
  <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/47ae0559-c007-4fc9-8547-1c4c57eb14ec">
  </p>
@@ -53,6 +53,7 @@
  <p align = "center">
  <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/0bb9f70d-2ed8-4954-a2c9-ebf6849f97f7">
  </p>
+ 
 * 던전이 부여하는 다양한 시련들
 
 <p align = "center">
