@@ -52,6 +52,10 @@
  <p align = "center">
  <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/47ae0559-c007-4fc9-8547-1c4c57eb14ec">
  </p>
+
+ <p align = "center">
+ <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/6a370e02-201d-40b2-a1dd-817673951fac">
+ </p>
  
  <p align = "center">
  <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/0bb9f70d-2ed8-4954-a2c9-ebf6849f97f7">
