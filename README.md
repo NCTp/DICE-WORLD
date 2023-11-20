@@ -5,6 +5,11 @@
 
 [개요]
 
+<p align = "center">
+<img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/8231bfaf-8dbd-45a2-8f67-af03c6acc4d4">
+</p>
+
+
 주사위 마왕의 사후 500년,
 
 주사위 왕국에 여전히 전해지는 오랜 전설이 있었다.
