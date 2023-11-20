@@ -36,6 +36,10 @@
  </p>
 
 
+ <p align = "center">
+ <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/cc76bf82-379e-4ac0-a745-f5512b339bbb">
+ </p>
+
 * 총의 부품들을 모아 마음대로 커스터마이징
 
  <p align = "center">
