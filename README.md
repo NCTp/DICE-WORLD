@@ -38,7 +38,6 @@
 
 * 총의 부품들을 모아 마음대로 커스터마이징
 
-  <움짤>
  <p align = "center">
  <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/e8aa0f03-7845-4be4-b6e0-a893c6d16997">
  </p>
@@ -46,8 +45,11 @@
 
 
 * 즐거운 슈팅액션
+* 
+ <p align = "center">
+ <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/47ae0559-c007-4fc9-8547-1c4c57eb14ec">
+ </p>
 
-  <움짤>
 
 * 던전이 부여하는 다양한 시련들
 
