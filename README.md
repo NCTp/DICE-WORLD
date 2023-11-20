@@ -41,7 +41,10 @@
  <p align = "center">
  <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/e8aa0f03-7845-4be4-b6e0-a893c6d16997">
  </p>
-
+ 
+ <p align = "center">
+ <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/aeb39144-f988-4694-bd2b-f53423042819">
+ </p>
 
 
 * 즐거운 슈팅액션
