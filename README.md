@@ -39,7 +39,7 @@
   <움짤>
 
 * 예측불허한 던전
-https://github.com/NCTp/DICE-WORLD/assets/45461452/6ad13ae0-6519-4ab6-a61c-2a4f07f79b87
+
 <p align = "center">
 <img src = "https://github.com/NCTp/DICE-WORLD/assets/45461452/6ad13ae0-6519-4ab6-a61c-2a4f07f79b87">
 </p>
