@@ -7,6 +7,10 @@
 
 [![DiceWorld Demo Video]( https://img.youtube.com/vi/KOWIFj4Ak2c/0.jpg)](https://youtu.be/KOWIFj4Ak2c?t=0s) 
 
+데모 게임파일
+
+[DiceWorld Demo Game File (Google Drive)](https://drive.google.com/file/d/1y2vi8yjy_nOfbza2umLIrqengtbvAq6T/view?usp=sharing)
+
 # 개요
 
 <p align = "center">
