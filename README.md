@@ -3,7 +3,8 @@
 
 장르: 로그라이크 슈팅 액션
 
-데모영상은 준비중입니다,,,
+데모영상
+[![DiceWorld Demo Video]( https://img.youtube.com/vi/KOWIFj4Ak2c/0.jpg)](https://youtu.be/KOWIFj4Ak2c?t=0s) 
 
 # 개요
 
